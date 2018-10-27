@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hack_Manchester_API", "Hack_Manchester_API.csproj", "{FD4BA2AD-2DF1-4E81-AD43-B896A93812BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4BA2AD-2DF1-4E81-AD43-B896A93812BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4BA2AD-2DF1-4E81-AD43-B896A93812BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4BA2AD-2DF1-4E81-AD43-B896A93812BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4BA2AD-2DF1-4E81-AD43-B896A93812BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
